@@ -1,0 +1,33 @@
+.schedule-row {
+    height: 60px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .schedule-row-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .schedule-row-text {
+    padding-left: 16px;
+    width: 100%;
+  }
+  
+  .schedule-row-eta {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .schedule-row-eta-text {
+    padding: 16px;
+  }
+  
