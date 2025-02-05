@@ -14,7 +14,7 @@ const HomePage = () => {
     <div style={{ height: "100vh", width: "100vw" }}>
       <div
         style={{
-          height: "15%",
+          height: "100px",
           width: "100%",
           display: "flex",
           alignItems: "end",
